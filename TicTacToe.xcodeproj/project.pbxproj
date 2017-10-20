@@ -16,6 +16,7 @@
 		811923241F978D3F00015A57 /* TicTacToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811923231F978D3F00015A57 /* TicTacToeUITests.swift */; };
 		811923391F97C05200015A57 /* TicTacButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811923381F97C05200015A57 /* TicTacButton.swift */; };
 		8119233B1F98D83A00015A57 /* RulesTicTacToe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8119233A1F98D83A00015A57 /* RulesTicTacToe.swift */; };
+		8119233D1F9A46A900015A57 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8119233C1F9A46A900015A57 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		811923251F978D3F00015A57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		811923381F97C05200015A57 /* TicTacButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacButton.swift; sourceTree = "<group>"; };
 		8119233A1F98D83A00015A57 /* RulesTicTacToe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesTicTacToe.swift; sourceTree = "<group>"; };
+		8119233C1F9A46A900015A57 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				811923311F978D4C00015A57 /* Supported Files */,
 				811923051F978D3E00015A57 /* ViewController.swift */,
 				811923071F978D3E00015A57 /* Main.storyboard */,
+				8119233C1F9A46A900015A57 /* README.md */,
 				8119233A1F98D83A00015A57 /* RulesTicTacToe.swift */,
 				811923381F97C05200015A57 /* TicTacButton.swift */,
 				8119230A1F978D3E00015A57 /* Assets.xcassets */,
@@ -248,6 +251,7 @@
 			files = (
 				8119230E1F978D3E00015A57 /* LaunchScreen.storyboard in Resources */,
 				8119230B1F978D3E00015A57 /* Assets.xcassets in Resources */,
+				8119233D1F9A46A900015A57 /* README.md in Resources */,
 				811923091F978D3E00015A57 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
